@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3777906951027, -7.783507314574553]
+      },
+      "properties": {
+        "name": "Rumah Sakit Bethesda",
+        "index": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3768441, -7.7860679]
+      },
+      "properties": {
+        "name": "Rumah Sakit DKT. Dr. Soetarto",
+        "index": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3766597, -7.7868186]
+      },
+      "properties": {
+        "name": "SMA Bopkri 1 Yogyakarta",
+        "index": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.37631549685648, -7.787672298425395]
+      },
+      "properties": {
+        "name": "Asrama Kompi Kotabaru",
+        "index": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3755527, -7.7873757]
+      },
+      "properties": {
+        "name": "SMP Negeri 5 Yogyakarta",
+        "index": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3721449, -7.7867987]
+      },
+      "properties": {
+        "name": "Babon Aniem",
+        "index": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3711200, -7.7863250]
+      },
+      "properties": {
+        "name": "SDN Unggaran 1",
+        "index": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3693527, -7.7863340]
+      },
+      "properties": {
+        "name": "Masjid Syuhada",
+        "index": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3711706, -7.7846132]
+      },
+      "properties": {
+        "name": "Museum Sandi",
+        "index": 9
+      }
+    }
+  ]
+}
