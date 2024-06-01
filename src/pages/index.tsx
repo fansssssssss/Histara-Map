@@ -46,7 +46,7 @@ function Home() {
   );
   return (
     <main>
-      {location.latitude},&nbsp;{location.longitude}
+      {/* {location.latitude},&nbsp;{location.longitude} */}
       <Map
         geojson={tour1}
         center={centroid}
