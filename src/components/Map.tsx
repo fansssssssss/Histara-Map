@@ -19,7 +19,8 @@ function Map({
     const map = useMap();
     
     useEffect(() => {
-      if (newCenter) {
+      if (newCenter[0] === 0 && newCenter[1] === 0) {
+        console.log("true")
         map.setView(newCenter, map.getZoom());
       }
     }, [newCenter, map]);
@@ -27,7 +28,7 @@ function Map({
     return null;
   };
   return (
-    <section className="w-full h-screen">
+    <section className="w-full h-screen relative">
       <MapContainer
         center={center ?? [-7.801363, 110.364787]}
         zoom={17}
@@ -36,7 +37,7 @@ function Map({
       >
         <RefreshMapCenter newCenter={center} />
         <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          attribution='&copy; <span href="https://www.openstreetmap.org/copyright">OpenStreetMap</span> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <Marker position={current} />

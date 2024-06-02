@@ -34,7 +34,10 @@ function Home() {
 
   useEffect(() => {
     console.log(calculateMiddlePoint(tour1));
-    setCentroid(calculateMiddlePoint(tour1));
+    if(centroid[0] === 0 && centroid[1] === 0) {
+      console.log("trigger")
+      setCentroid(calculateMiddlePoint(tour1))
+    };
   }, [location]);
   const Map = useMemo(
     () =>
