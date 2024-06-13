@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Legi Kotagede",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3999145, -7.8278650]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Gede Mataram",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3981439, -7.8292906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sendang",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.39782254202203, -7.8298636774534165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makam Panembahan Senopati",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3977701, -7.8293457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Alun-alun",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.39909936746855, -7.830918554062269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makam Hasta Renggo",
+        "index": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3991819, -7.8320013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Situs Watu Gilang & Gatheng",
+        "index": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.39919933351024, -7.8320991728151474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Situs Bokong Semar (Bekas Benteng Karaton)",
+        "index": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.40002604094516, -7.833482828505818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumah Kalang (Restoran) - Heritage",
+        "index": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.39298252754546, -7.826788283890553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Kotagede",
+        "index": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3921136, -7.8263122]
+      }
+    }
+  ]
+}
