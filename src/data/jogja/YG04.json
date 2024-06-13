@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Sojiwan",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4961070518608, -7.761044153758847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Ratu Boko",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.48601207135462, -7.770638894865246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Barong",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49751965055466, -7.7750809922049084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Banyunibo",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49401798158385, -7.777997137599033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Ijo",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.51148425251785, -7.78410629669363]
+      }
+    }
+  ]
+}

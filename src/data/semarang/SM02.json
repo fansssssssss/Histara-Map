@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lawang Sewu",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4106866, -6.9833715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tugu Muda Semarang",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4093361, -6.9842817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereja Katedral Santa Perawan Maria",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4097408, -6.9854654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kompleks SD SMP Pangudi Luhur",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4100589, -6.9859466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Perjuangan Mandala Bhakti",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4088245, -6.9847655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Bulu Semarang",
+        "index": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4080993, -6.9841658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Perdamaian",
+        "index": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4085355, -6.9835365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Juang 45 Semarang",
+        "index": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4112891, -6.9822333]
+      }
+    }
+  ]
+}

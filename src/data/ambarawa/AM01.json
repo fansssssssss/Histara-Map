@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumen Palagan Ambarawa",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4025069, -7.2598825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Isdiman",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4021528, -7.2599852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereja Kristen Ambarawa (GKJ)",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4020133, -7.2601422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereja Protestan di Indonesia bagian Barat (BPIB) Ambarawa",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4018477, -7.2602140]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Kereta Api Ambarawa",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4027938, -7.2648619]
+      }
+    },
+    {
+      "type": "Feature",
+        "properties": {
+        "name": "Benteng Fort Willem I (Benteng Pendem)",
+        "index": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4101468, -7.2706495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eling Bening",
+        "index": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4452482, -7.2677195]
+      }
+    }
+  ]
+}

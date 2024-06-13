@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stasiun Tawang",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4279795, -6.9644690]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Lama Semarang",
+        "index": 2,
+        "description": "A historical area with colonial buildings, including Tawang Station, Gereja Blenduk, and various other heritage sites."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.42760139863123, -6.968411320276323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GPIB Immanuel Semarang (Gereja Blenduk)",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4274688, -6.9683022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POS Indonesia KCU Semarang",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4242170, -6.9699459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alun-Alun Semarang",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.42385489888301, -6.971914811465167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasar Johar",
+        "index": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4246230, -6.9714691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Kota Lama Semarang",
+        "index": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4307086, -6.9693845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Batik",
+        "index": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4311451, -6.9691585]
+      }
+    }
+  ]
+}

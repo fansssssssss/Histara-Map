@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Plaosan",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.50434229191514, -7.741607392949931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Gana",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49610443958223, -7.743956534859717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Prambanan",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49139879429016, -7.752025310182392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Lumbung",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49293914161629, -7.748118414983243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Bubrah",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49290784254902, -7.7464990603686195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Sewu",
+        "index": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.49284985602297, -7.743870533220043]
+      }
+    }
+  ]
+}

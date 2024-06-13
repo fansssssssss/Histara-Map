@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerbang Kerkhof",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2217575, -7.4892447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereja Kristen Jawa (GKJ) Magelang",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2157155, -7.4838320]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Agung Magelang (parkir)",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2171347, -7.4772337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alun-alun Magelang - Water Toren",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2178096, -7.4768235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gereja GPIB Beth-El Magelang",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2180238, -7.4760393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klenteng Liok Hok Bio",
+        "index": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2191819, -7.4782739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum BPK RI",
+        "index": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2141705, -7.4744902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Diponegoro",
+        "index": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2128036, -7.4747625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eks Kampus UGM Cabang Magelang",
+        "index": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2115436, -7.4751115]
+      }
+    }
+  ]
+}

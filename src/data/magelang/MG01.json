@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Gunung Sari",
+        "index": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2832397, -7.6021298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Ngawen",
+        "index": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2724247, -7.6040311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Mendut",
+        "index": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2299677, -7.6047436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Pawon",
+        "index": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2195272, -7.6061184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candi Borobudur",
+        "index": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.20384249510818, -7.608038633071076]
+      }
+    }
+  ]
+}
