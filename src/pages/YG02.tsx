@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
 import useCurrentLocation from "@/hooks/useCurrentLocation";
 import React, { useEffect, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
@@ -16,7 +14,7 @@ function YG02() {
     const marker = {
       position: [item.geometry.coordinates[1], item.geometry.coordinates[0]],
       iconUrl: "/" + chars[index + 1] + ".png",
-      iconSize: [18, 18],
+      iconSize: [25, 25],
       iconAnchor: [18, 18],
       popupAnchor: [9, 9],
       children: (

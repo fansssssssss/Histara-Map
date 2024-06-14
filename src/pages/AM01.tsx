@@ -1,10 +1,10 @@
 import useCurrentLocation from "@/hooks/useCurrentLocation";
 import React, { useEffect, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
-import tour1 from "@/data/jogja/YG01.json";
+import tour1 from "@/data/ambarawa/AM01.json";
 import calculateMiddlePoint from "@/utilities/CalculateCentroid";
 
-function YG01() {
+function YG02() {
   const { location, error } = useCurrentLocation();
   const [centroid, setCentroid] = useState<[number, number]>([0, 0]);
   const chars: string[] = ["", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"];
@@ -59,6 +59,6 @@ function YG01() {
   );
 }
 
-export default dynamic(() => Promise.resolve(YG01), {
+export default dynamic(() => Promise.resolve(YG02), {
   ssr: false,
 });
